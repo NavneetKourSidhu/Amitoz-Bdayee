@@ -12,4 +12,4 @@
 
 -----
 
-Made with :): and Python.
+Made with :) and Python.
